@@ -16,7 +16,7 @@ Plex uses minimal highlighting, the color palette is based on IBM Design Languag
 ## Preview
 <p align="center">
 <img  src="https://raw.githubusercontent.com/d1ego77/vscode-theme-plex/refs/heads/master/screenshot.png"  
-title="TextPad" />
+title="Plex theme" />
 </p>
 Tested languages: Rust, Go, Python, Ruby, Java, Javascript, C#, C, C++, Typescript, PHP, Elixir, Groovy, Lua, Clojure, HTML
 
