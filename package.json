@@ -1,11 +1,11 @@
 {
-	"name": "theme-alabaster",
-	"displayName": "Alabaster Theme",
-	"version": "0.2.9",
-	"publisher": "tonsky",
+	"name": "theme-plex",
+	"displayName": "Plex Theme",
+	"version": "0.0.1",
+	"publisher": "benderbr",
 	"license": "MIT",
 	"maintainers": [
-		"Nikita Prokopov <prokopov@gmail.com>"
+		"Damc"
 	],
 	"engines": {
 		"vscode": "^1.12.0"
@@ -16,23 +16,23 @@
 	"contributes": {
 		"themes": [
 			{
-				"label": "Alabaster",
+				"label": "Plex",
 				"uiTheme": "vs",
-				"path": "./theme/alabaster-color-theme.json"
+				"path": "./theme/plex-color-theme.json"
 			}
 		]
 	},
 	"icon": "icon.png",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/tonsky/vscode-theme-alabaster.git"
+		"url": "https://github.com/d1ego77/vscode-theme-plex.git"
 	},
 	"bugs": {
-		"url": "https://github.com/tonsky/vscode-theme-alabaster/issues"
+		"url": "https://github.com/d1ego77/vscode-theme-plex/issues"
 	},
 	"__metadata": {
 		"id": "c629b26b-49e4-4995-ba6e-5d083752f3d6",
-		"publisherDisplayName": "Nikita Prokopov",
+		"publisherDisplayName": "Damc",
 		"publisherId": "8fe0f11e-8bd6-4cf2-9ee6-acead847e970"
 	}
 }
