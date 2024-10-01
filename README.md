@@ -2,9 +2,7 @@
 
 A light theme with minimal amount of highlighting for [Visual Studio Code](http://code.visualstudio.com).
 
-Most color themes highlight everything they can, ending up looking like a fireworks show.
-
-Instead, Plex uses minimal highlighting, the color palette is based on IBM Design Language Colors
+Plex uses minimal highlighting, the color palette is based on IBM Design Language Colors
 
 ## Syntax Palette
 
@@ -22,3 +20,32 @@ title="TextPad" />
 </p>
 Tested languages: Rust, Go, Python, Ruby, Java, Javascript, C#, C, C++, Typescript, PHP, Elixir, Groovy, Lua, Clojure, HTML
 
+## Additionally
+
+Recommended font [IBM Plex Mono](https://www.ibm.com/plex/specs/)
+
+```js
+{
+    
+
+  "editor.inlayHints.enabled": "off",
+  "editor.minimap.enabled": false,
+  "editor.smoothScrolling": true,
+  "editor.scrollbar.vertical": "hidden",
+  "explorer.decorations.colors": false,
+  "window.autoDetectColorScheme": true,
+  "workbench.editor.showIcons": false,
+  "workbench.editor.tabSizing": "shrink",
+  "workbench.tree.indent": 10,
+  "editor.stickyScroll.enabled": true,
+  "editor.guides.indentation": false,
+  "editor.occurrencesHighlight": "off",
+  "editor.selectionHighlight": false,
+  "editor.rulers": [
+    120,
+  ],
+  "workbench.editor.tabActionLocation": "left",
+  "editor.bracketPairColorization.enabled": false,
+  "symbols.hidesExplorerArrows": false,
+  "breadcrumbs.enabled": false,
+}
