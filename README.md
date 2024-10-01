@@ -17,10 +17,8 @@ Instead, Plex uses minimal highlighting, the color palette is based on IBM Desig
 
 ## Preview
 <p align="center">
-<img  src="https://raw.githubusercontent.com/damc-code/damc.textpad-color-theme/main/images/screen.png"  
+<img  src="https://raw.githubusercontent.com/d1ego77/vscode-theme-plex/refs/heads/master/screenshot.png"  
 title="TextPad" />
 </p>
 Tested languages: Rust, Go, Python, Ruby, Java, Javascript, C#, C, C++, Typescript, PHP, Elixir, Groovy, Lua, Clojure, HTML
 
-Do you want your editor looks like the previous image?
-Follow these steps:
