@@ -120,7 +120,7 @@
 		"activityBarBadge.background": "#6929c4",
 		"editorLineNumber.foreground": "#c1c7cd",
 		"editorLineNumber.activeForeground": "#0043ce",
-		"editorCursor.foreground": "#007ACC",
+		"editorCursor.foreground": "#171414",
 		"editor.findMatchBackground": "#FFBC5D",
 		"editor.findMatchHighlightBackground": "#FFD86381",
 		"statusBar.background": "#DDDDDD",
