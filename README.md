@@ -6,12 +6,38 @@ Plex uses minimal highlighting, the color palette is based on IBM Design Languag
 
 ## Syntax Palette
 
-| Scope       | Color                                              | Scope   | Color              |
-| ------------| -------------------------------------------------- | ------- | ------------------ |
-| Background | ![#f4f4f4](https://via.placeholder.com/35/f4f4f4/?text=+) | Foreground | ![#171414](https://via.placeholder.com/35/171414/?text=+) |
-| Comments | ![#A2191F](https://via.placeholder.com/35/A2191F/?text=+) | Keywords/Primitives | ![#002d9c](https://via.placeholder.com/35/002d9c/?text=+) |
-| Punctuation | ![#8d8d8d](https://via.placeholder.com/35/8d8d8d/?text=+) | Strings | ![#198038](https://via.placeholder.com/35/198038/?text=+) |
-| Storage/Support | ![#0043ce](https://via.placeholder.com/35/0043ce/?text=+) | Constants | ![#6929c4](https://via.placeholder.com/35/6929c4/?text=+) |
+<table style="width:100%">
+  <tr>
+    <th>Scope</th>
+    <th>Color</th>
+    <th>Scope</th>
+    <th>Color</th>
+  </tr>
+  <tr>
+    <td>Background</td>
+    <td><img src="https://via.placeholder.com/35/f4f4f4/?text=+"></td>
+    <td>Foreground</td>
+    <td><img src="https://via.placeholder.com/35/171414/?text=+"></td>
+  </tr>
+  <tr>
+    <td>Comment</td>
+    <td><img src="https://via.placeholder.com/35/A2191F/?text=+"></td>
+    <td>Primitives/Keywords</td>
+    <td><img src="https://via.placeholder.com/35/002d9c/?text=+"></td>
+  </tr>
+  <tr>
+    <td>Strings</td>
+    <td><img src="https://via.placeholder.com/35/198038/?text=+"></td>
+    <td>Storage/Support</td>
+    <td><img src="https://via.placeholder.com/35/0043ce/?text=+"></td>
+  </tr>
+  <tr>
+    <td>Constants</td>
+    <td><img src="https://via.placeholder.com/35/6929c4/?text=+"></td>
+    <td>Punctuation</td>
+    <td><img src="https://via.placeholder.com/35/8d8d8d/?text=+"></td>
+  </tr>
+</table>
 
 ## Preview
 <p align="center">
@@ -24,10 +50,10 @@ Tested languages: Rust, Go, Python, Ruby, Java, Javascript, C#, C, C++, Typescri
 
 Recommended font [IBM Plex Mono](https://www.ibm.com/plex/specs/)
 
+Consider using these settings to reduce visual noize:
+
 ```js
 {
-    
-
   "editor.inlayHints.enabled": "off",
   "editor.minimap.enabled": false,
   "editor.smoothScrolling": true,
