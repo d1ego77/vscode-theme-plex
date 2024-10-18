@@ -9,7 +9,16 @@
 				"punctuation.definition.comment"
 			],
 			"settings": {
-				"foreground": "#A2191F"
+				"foreground": "#6f6f6f"
+			}
+		},
+		{
+			"name": "Entities",
+			"scope": [
+				"entity.name",
+			],
+			"settings": {
+				"foreground": "#000000"
 			}
 		},
 		{
@@ -36,10 +45,11 @@
 				"constant.numeric",
 				"constant.character",
 				"constant.keyword",
-				"constant"
+				"constant",
+				"variable.language.self"
 			],
 			"settings": {
-				"foreground": "#6929c4"
+				"foreground": "#d02670"
 			}
 		},
 		{
@@ -61,7 +71,7 @@
 				"storage.type"
 			],
 			"settings": {
-				"foreground": "#002d9c",
+				"foreground": "#6929c4",
 			}
 		},
 		{
@@ -105,8 +115,8 @@
 		}
 	],
 	"colors": {
-		"editor.foreground": "#171414",
-		"editor.background": "#f4f4f4",
+		"editor.foreground": "#000000",
+		"editor.background": "#f3f3f3",
 		"editor.lineHighlightBackground": "#E5E0DF",
 		"editor.selectionBackground": "#dde1e6",
 		"editor.selectionHighlightBackground": "#CFCFCF81",
@@ -115,7 +125,7 @@
 		"sideBar.foreground": "#171414",
 		"sideBar.border": "#cac5c4",
 		"editorGroupHeader.tabsBackground": "#F0F0F0",
-		"activityBar.background": "#e0e0e0",
+		"activityBar.background": "#f3f3f3",
 		"activityBar.foreground": "#171414",
 		"activityBarBadge.background": "#6929c4",
 		"editorLineNumber.foreground": "#c1c7cd",
