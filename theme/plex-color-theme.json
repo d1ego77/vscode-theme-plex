@@ -18,7 +18,7 @@
 				"entity.name",
 			],
 			"settings": {
-				"foreground": "#000000"
+				"foreground": "#0043ce"
 			}
 		},
 		{
@@ -46,7 +46,8 @@
 				"constant.character",
 				"constant.keyword",
 				"constant",
-				"variable.language.self"
+				"variable.language.self",
+				"variable.language.this"
 			],
 			"settings": {
 				"foreground": "#d02670"
@@ -57,10 +58,13 @@
 			"scope": [
 				"entity.name.function",
 				"meta.function-call.rust",
-				"meta.function-call.generic"
+				"meta.function-call.generic",
+				"support.function",
+				"meta.method-call"
 			],
 			"settings": {
 				"foreground": "#0043ce"
+				//"foreground": "#6929c4"
 			}
 		},
 		{
@@ -71,7 +75,7 @@
 				"storage.type"
 			],
 			"settings": {
-				"foreground": "#6929c4",
+				"foreground": "#000000",
 			}
 		},
 		{
