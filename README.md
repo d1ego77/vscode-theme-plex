@@ -17,23 +17,23 @@ Plex uses minimal highlighting, the color palette is based on IBM Design Languag
     <td>Background</td>
     <td><img src="https://via.placeholder.com/35/f4f4f4/?text=+"></td>
     <td>Foreground</td>
-    <td><img src="https://via.placeholder.com/35/171414/?text=+"></td>
+    <td><img src="https://via.placeholder.com/35/000000/?text=+"></td>
   </tr>
   <tr>
     <td>Comment</td>
-    <td><img src="https://via.placeholder.com/35/A2191F/?text=+"></td>
+    <td><img src="https://via.placeholder.com/35/6929c4/?text=+"></td>
     <td>Primitives/Keywords</td>
-    <td><img src="https://via.placeholder.com/35/002d9c/?text=+"></td>
+    <td><img src="https://via.placeholder.com/35/000000/?text=+"></td>
   </tr>
   <tr>
     <td>Strings</td>
     <td><img src="https://via.placeholder.com/35/198038/?text=+"></td>
-    <td>Storage/Support</td>
+    <td>Entities</td>
     <td><img src="https://via.placeholder.com/35/0043ce/?text=+"></td>
   </tr>
   <tr>
     <td>Constants</td>
-    <td><img src="https://via.placeholder.com/35/6929c4/?text=+"></td>
+    <td><img src="https://via.placeholder.com/35/d02670/?text=+"></td>
     <td>Punctuation</td>
     <td><img src="https://via.placeholder.com/35/8d8d8d/?text=+"></td>
   </tr>
