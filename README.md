@@ -2,7 +2,7 @@
 
 A light theme with minimal amount of highlighting for [Visual Studio Code](http://code.visualstudio.com).
 
-Plex uses minimal highlighting, the color palette is based on IBM Design Language Colors
+Plex uses minimal highlighting 
 
 ## Syntax Palette
 
@@ -21,9 +21,9 @@ Plex uses minimal highlighting, the color palette is based on IBM Design Languag
   </tr>
   <tr>
     <td>Comment</td>
-    <td><img src="https://via.placeholder.com/35/6929c4/?text=+"></td>
+    <td><img src="https://via.placeholder.com/35/b3b1ad/?text=+"></td>
     <td>Primitives/Keywords</td>
-    <td><img src="https://via.placeholder.com/35/000000/?text=+"></td>
+    <td><img src="https://via.placeholder.com/35/b83453/?text=+"></td>
   </tr>
   <tr>
     <td>Strings</td>
@@ -33,7 +33,7 @@ Plex uses minimal highlighting, the color palette is based on IBM Design Languag
   </tr>
   <tr>
     <td>Constants</td>
-    <td><img src="https://via.placeholder.com/35/d02670/?text=+"></td>
+    <td><img src="https://via.placeholder.com/35/6929c4/?text=+"></td>
     <td>Punctuation</td>
     <td><img src="https://via.placeholder.com/35/8d8d8d/?text=+"></td>
   </tr>
@@ -47,8 +47,6 @@ title="Plex theme" />
 Tested languages: Rust, Go, Python, Ruby, Java, Javascript, C#, C, C++, Typescript, PHP, Elixir, Groovy, Lua, Clojure, HTML
 
 ## Additionally
-
-Recommended font [IBM Plex Mono](https://www.ibm.com/plex/specs/)
 
 Consider using these settings to reduce visual noize:
 

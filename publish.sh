@@ -1,1 +1,2 @@
 vsce publish
+vsce package
