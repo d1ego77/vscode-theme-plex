@@ -9,7 +9,8 @@
 				"punctuation.definition.comment"
 			],
 			"settings": {
-				"foreground": "#6929c4"
+				"foreground": "#b3b1ad",
+				"fontStyle": "italic"
 			}
 		},
 		{
@@ -18,7 +19,7 @@
 				"entity.name",
 			],
 			"settings": {
-				"foreground": "#0043ce"
+				"foreground": "#000000"
 			}
 		},
 		{
@@ -50,7 +51,7 @@
 				"variable.language.this"
 			],
 			"settings": {
-				"foreground": "#d02670"
+				"foreground": "#a82ad6"
 			}
 		},
 		{
@@ -63,8 +64,9 @@
 				"meta.method-call"
 			],
 			"settings": {
-				"foreground": "#0043ce"
+				"foreground": "#0043ce",
 				//"foreground": "#6929c4"
+
 			}
 		},
 		{
@@ -75,7 +77,18 @@
 				"storage.type"
 			],
 			"settings": {
+				"foreground": "#b83453",
+				//"foreground": "#354773",
+			}
+		},
+		{
+			"name": "Keywords",
+			"scope": [
+				"keyword.operator",
+			],
+			"settings": {
 				"foreground": "#000000",
+				//"foreground": "#354773",
 			}
 		},
 		{
@@ -120,8 +133,8 @@
 	],
 	"colors": {
 		"editor.foreground": "#000000",
-		"editor.background": "#f3f3f3",
-		"editor.lineHighlightBackground": "#E5E0DF",
+		"editor.background": "#f5f5f5",
+		"editor.lineHighlightBorder":"#e0e0e0",
 		"editor.selectionBackground": "#dde1e6",
 		"editor.selectionHighlightBackground": "#CFCFCF81",
 		"panel.background": "#f4f4f4",
