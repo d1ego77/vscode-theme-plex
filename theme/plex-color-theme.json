@@ -47,8 +47,6 @@
 				"constant.character",
 				"constant.keyword",
 				"constant",
-				"variable.language.self",
-				"variable.language.this"
 			],
 			"settings": {
 				"foreground": "#a82ad6"
@@ -74,7 +72,9 @@
 			"scope": [
 				"keyword",
 				"storage.modifier",
-				"storage.type"
+				"storage.type",
+				"variable.language.self",
+				"variable.language.this"
 			],
 			"settings": {
 				"foreground": "#b83453",
