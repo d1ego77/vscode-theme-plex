@@ -1,0 +1,5 @@
+#ff0000 : Red
+#0000ff : Blue
+#008080 : Green strings
+#008000 : Gren comments
+#000080 : Blue entities
