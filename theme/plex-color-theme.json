@@ -9,7 +9,7 @@
 				"punctuation.definition.comment"
 			],
 			"settings": {
-				"foreground": "#008000",
+				"foreground": "#b3b1ad",
 				"fontStyle": "italic"
 			}
 		},
@@ -19,7 +19,7 @@
 				"entity.name",
 			],
 			"settings": {
-				"foreground": "#000080"
+				"foreground": "#000000"
 			}
 		},
 		{
@@ -30,7 +30,7 @@
 				"constant.other.symbol"
 			],
 			"settings": {
-				"foreground": "#008080"
+				"foreground": "#198038"
 			}
 		},
 		{
@@ -62,8 +62,7 @@
 				"meta.method-call"
 			],
 			"settings": {
-				"foreground": "#000080"
-				//"foreground": "#0043ce",
+				"foreground": "#0043ce",
 				//"foreground": "#6929c4"
 
 			}
@@ -78,8 +77,7 @@
 				"variable.language.this"
 			],
 			"settings": {
-				"foreground": "#0000ff"
-				//"foreground": "#b85a34",
+				"foreground": "#b83453",
 				//"foreground": "#354773",
 			}
 		},
@@ -135,9 +133,8 @@
 	],
 	"colors": {
 		"editor.foreground": "#000000",
-		"editor.background": "#ffffff",
-		"editor.lineHighlightBorder":"#faf9d7",
-		"editor.lineHighlightBackground":"#fffbf0",
+		"editor.background": "#f5f5f5",
+		"editor.lineHighlightBorder":"#e0e0e0",
 		"editor.selectionBackground": "#dde1e6",
 		"editor.selectionHighlightBackground": "#CFCFCF81",
 		"panel.background": "#f4f4f4",
