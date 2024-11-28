@@ -9,7 +9,7 @@
 				"punctuation.definition.comment"
 			],
 			"settings": {
-				"foreground": "#b3b1ad",
+				"foreground": "#008000",
 				"fontStyle": "italic"
 			}
 		},
@@ -30,7 +30,7 @@
 				"constant.other.symbol"
 			],
 			"settings": {
-				"foreground": "#198038"
+				"foreground": "#008080"
 			}
 		},
 		{
@@ -77,7 +77,7 @@
 				"variable.language.this"
 			],
 			"settings": {
-				"foreground": "#b83453",
+				"foreground": "#B7410E",
 				//"foreground": "#354773",
 			}
 		},
@@ -134,13 +134,13 @@
 	"colors": {
 		"editor.foreground": "#000000",
 		"editor.background": "#f5f5f5",
-		"editor.lineHighlightBorder":"#e0e0e0",
+		"editor.lineHighlightBorder":"#e6e6e6",
 		"editor.selectionBackground": "#dde1e6",
 		"editor.selectionHighlightBackground": "#CFCFCF81",
 		"panel.background": "#f4f4f4",
 		"sideBar.background": "#f4f4f4",
 		"sideBar.foreground": "#171414",
-		"sideBar.border": "#cac5c4",
+		"sideBar.border": "#f5f5f5",
 		"editorGroupHeader.tabsBackground": "#F0F0F0",
 		"activityBar.background": "#f3f3f3",
 		"activityBar.foreground": "#171414",
